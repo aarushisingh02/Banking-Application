@@ -1,2 +1,3 @@
 # Banking-Application
-A Java based Banking Application that allows users to create accounts, deposit/withdraw money, view account details, and update contact information. Built using OOP concepts, arrays, control structures, and string handling.
+This is a simple Banking Application built in Java that allows users to manage bank accounts through various operations such as creating accounts, depositing/withdrawing money, viewing account details, and updating contact information.
+It demonstrates Object-Oriented Programming (OOP) concepts, arrays, control structures, and string handling in Java.
