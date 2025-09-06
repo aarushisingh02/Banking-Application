@@ -47,7 +47,6 @@ class Account {
         System.out.println("Balance        : ₹" + balance);
         System.out.println("Email          : " + email);
         System.out.println("Phone Number   : " + phoneNumber);
-        System.out.println("------------------------\n");
     }
 
     // Update email and phone number
@@ -194,4 +193,5 @@ public class Main {
         UserInterface ui = new UserInterface(50);
         ui.Menu();
     }
+
 }
